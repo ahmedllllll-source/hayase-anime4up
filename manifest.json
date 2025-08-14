@@ -1,0 +1,13 @@
+{
+  "name": "anime4up-source",
+  "version": "1.0.0",
+  "author": "your_github_username",
+  "sources": [
+    {
+      "id": "anime4up",
+      "name": "Anime4Up Arabic",
+      "type": "anime",
+      "script": "anime4up.js"
+    }
+  ]
+}
